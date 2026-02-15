@@ -2,6 +2,8 @@
 
 A second-generation C2 (Command and Control) server project for Digispark that completely overhauls server and client connections by routing requests through HTTP.
 
+*If you want to check out v1 click [here](https://github.com/Kaiden-cyber/DigiKeyboard-project)*
+
 **DISCLAIMER**: This project is purely for educational purposes. I do not condone the use of this code for malicious intent.
 
 ## Overview
